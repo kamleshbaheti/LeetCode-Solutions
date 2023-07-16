@@ -1,8 +1,10 @@
-# Algorithm : Depth-First Search (DFS)
-# Language : C++
-# Time Complexity : O(m*n)
-# Space Complexity : O(1)
-# Date of Submission : 22/June/2023
+/*
+    Algorithm : Depth-First Search (DFS)
+    Language : C++
+    Time Complexity : O(m*n)
+    Space Complexity : O(1)
+    Date of Submission : 22/June/2023
+*/
 
 
 
@@ -47,4 +49,4 @@ public:
 };
 
 
-# Solution Link: https://leetcode.com/problems/count-sub-islands/submissions/977225604
+// Solution Link: https://leetcode.com/problems/count-sub-islands/submissions/977225604
