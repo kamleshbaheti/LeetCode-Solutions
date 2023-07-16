@@ -1,8 +1,10 @@
-# Algorithm : Depth-First Search (DFS)
-# Language : C++
-# Time Complexity : O(m*n)
-# Space Complexity : O(m*n)
-# Date of Submission : 21/June/2023
+/*
+    Algorithm : Depth-First Search (DFS)
+    Language : C++
+    Time Complexity : O(m*n)
+    Space Complexity : O(m*n)
+    Date of Submission : 21/June/2023
+*/
 
 
 
@@ -76,4 +78,4 @@ public:
 };
 
 
-# Solution Link: https://leetcode.com/problems/find-all-groups-of-farmland/solutions/3666697/faster-than-902-c-dfs-easy-solution
+// Solution Link: https://leetcode.com/problems/find-all-groups-of-farmland/solutions/3666697/faster-than-902-c-dfs-easy-solution
