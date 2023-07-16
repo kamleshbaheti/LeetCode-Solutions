@@ -1,5 +1,5 @@
 /*
-  Algorithm : Iteration - Tree
+  Algorithm : Iteration (Using Formula)
   Language : C++
   Time Complexity : O(log2(label))
   Space Complexity : O(No. of Valid Parents) / Constant
@@ -29,3 +29,6 @@ public:
         return arr;
     }
 };
+
+
+// Solution Link: https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/solutions/3611276/c-proper-explaination-using-formula
