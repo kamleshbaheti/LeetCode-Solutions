@@ -1,8 +1,10 @@
-# Algorithm : Depth-First Search (DFS)
-# Language : C++
-# Time Complexity : O(m*n)
-# Space Complexity : O(m*n)
-# Date of Submission : 24/June/2023
+/*
+    Algorithm : Depth-First Search (DFS)
+    Language : C++
+    Time Complexity : O(m*n)
+    Space Complexity : O(m*n)
+    Date of Submission : 24/June/2023
+*/
 
 
 
@@ -73,5 +75,5 @@ public:
 };
 
 
-# Auxilary : Space Complexity can be reduced to Constant-Space if grid elements are replaced with (-1) instead of updating Visited array. No need to make Visit array in this case.
-# Solution Link : https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/solutions/3677816/faster-c-dfs-easy-solution
+// Auxilary : Space Complexity can be reduced to Constant-Space if grid elements are replaced with (-1) instead of updating Visited array. No need to make Visit array in this case.
+// Solution Link: https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/solutions/3677816/faster-c-dfs-easy-solution
